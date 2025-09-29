@@ -1,7 +1,7 @@
 # Ejercicio2_Desarrollo_Web
 Sitio web realizado para la materia Diseño y Desarrollo Web, UADE, 2025.
 
-#Fan Page — The Good Place
+Fan Page — The Good Place
 
 Este proyecto es una fan page dedicada a la serie The Good Place, creada con HTML y CSS como parte de un ejercicio práctico. El objetivo fue aplicar conceptos de maquetado web y estilos coherentes con la temática de la serie, logrando un sitio visualmente atractivo y funcional.
 
